@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">DelegateAdapters</string>
+    <string name="app_name">Hasmik Sleep</string>
+    <string name="text_for_hasmik">Հերիքա սեղմես վրես այ Հասմիիկ ջան, գնա քնիի</string>
+    <string name="text_for_hasmik_day">Հիմա ցերեկա , գիրք կարդա</string>
+    <string name="text_for_hasmik_again">Էլի</string>
 </resources>
